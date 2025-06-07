@@ -29,7 +29,5 @@
             "active": true
         }
     },
-    "blacklist": [
-        "370312628863631360"
-    ]
+    "blacklist": []
 }
