@@ -27,9 +27,19 @@
         "QCRV3BMNWWUK": {
             "discord_id": "890279673030934609",
             "active": true
+        },
+        "7V17S61YBE0Z": {
+            "discord_id": "370312628863631360",
+            "active": true
+        },
+        "OW05TY4OIU2X": {
+            "discord_id": "370312628863631360",
+            "active": true
+        },
+        "5NEYH1P5Y7NG": {
+            "discord_id": "370312628863631360",
+            "active": true
         }
     },
-    "blacklist": [
-        "370312628863631360"
-    ]
+    "blacklist": []
 }
