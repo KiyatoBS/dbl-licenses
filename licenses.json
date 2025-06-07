@@ -13,5 +13,7 @@
             "active": true
         }
     },
-    "blacklist": []
+    "blacklist": [
+        "276060004262477825"
+    ]
 }
