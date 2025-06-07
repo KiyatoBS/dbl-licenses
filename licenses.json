@@ -1,4 +1,9 @@
 {
-  "licenses": {},
-  "blacklist": []
+    "licenses": {
+        "TSUKA-V7MQP6CU": {
+            "discord_id": "890279673030934609",
+            "active": true
+        }
+    },
+    "blacklist": []
 }
